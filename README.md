@@ -1,6 +1,6 @@
 # Quizzy
 
-This is a simple quiz app using Python and SQL.
+This is a simple quiz app using Python and SQL, made for school project.
 
 ## How to run?
 1. Install requirements
