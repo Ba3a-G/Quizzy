@@ -34,7 +34,6 @@ def ask(questions):
 
 if __name__ == "__main__":
     questions = load_questions()
-    print(questions)
     while True:
         ask(questions)
         print("Do you want to continue? (y/n)")
